@@ -1,1 +1,1 @@
-# Attrition-Forecast-Analysis-and-prediction
+Welcome to the Acme AttritionForecast: Analysis and Prediction repository! This project focuses on analyzing employee attrition and building predictive models to forecast future attrition rates. By understanding the factors influencing employee turnover, we aim to provide actionable insights to improve employee retention strategies.
